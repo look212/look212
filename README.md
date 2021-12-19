@@ -1,4 +1,5 @@
-👋  Hi there! I'm Front-End developer.
+👋  Hi there! I'm Bohwa Jo.
+💻  I'm Front-End developer.
 
 
 
