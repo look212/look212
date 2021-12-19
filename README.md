@@ -6,7 +6,7 @@
 
 🔎  These are techs that I've used at least once.
 
-<img src="https://img.shields.io/badge/HTML-blue?style=flat"/> <img src="https://img.shields.io/badge/Javascript-yellow?style=flat"/> <img src="https://img.shields.io/badge/Vue-43b883?style=flat"/> <img src="https://img.shields.io/badge/React-61dbfb?style=flat"/> <img src="https://img.shields.io/badge/Nuxt-3fb27e?style=flat"/> <img src="https://img.shields.io/badge/CSS3-pink?style=flat"/> <img src="https://img.shields.io/badge/SCSS-c96195?style=flat"/>
+<img src="https://img.shields.io/badge/HTML-blue?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-yellow?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Vue-43b883?style=flat&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/React-61dbfb?style=flat&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Nuxt-3fb27e?style=flat&logo=Nuxt.js&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-pink?style=flat&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/SCSS-c96195?style=flat&logo=Sass&logoColor=white"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=look212&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
