@@ -17,4 +17,5 @@
 <a href="https://look212.notion.site/Hi-I-m-Bohwa-a2131217be5b4cdab4dd083fd261c986" target="_blank"><img src="https://img.shields.io/badge/My_history-black?style=for-the-badge&logo=notion&logoColor=white"/></a> <a href="https://velog.io/@look212" target="_blank"><img src="https://img.shields.io/badge/Blog-black?style=for-the-badge&logo=blogger&logoColor=white"/></a> 
 
 📞  Contact me.
+
 <a href="mailto:jobong212@gmail.com"><img src="https://img.shields.io/badge/jobong212@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
