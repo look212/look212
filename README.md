@@ -10,4 +10,4 @@
 
 📞  Contact Me.
 
-<img src="https://img.shields.io/badge/My_history-black?style=for-the-badge&logo=notion&logoColor=White&link=https://look212.notion.site/Hi-I-m-Bohwa-a2131217be5b4cdab4dd083fd261c986"/> <img src="https://img.shields.io/badge/jobong212@gmail.com-ea4435?style=for-the-badge&logo=gmail&logoColor=White&link=mailto:jobong212@gmail.com"/>
+<img src="https://img.shields.io/badge/My_history-black?style=for-the-badge&logo=notion&logoColor=White&link=https://look212.notion.site/Hi-I-m-Bohwa-a2131217be5b4cdab4dd083fd261c986"/> <img src="https://img.shields.io/badge/jobong212@gmail.com-f5f5f5?style=for-the-badge&logo=gmail&logoColor=White&link=mailto:jobong212@gmail.com"/>
